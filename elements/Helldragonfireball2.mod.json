@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "dragon_fireball",
+    "customModelName": "Normal",
+    "name": "Helldragon fire ball",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Promptium"
+    },
+    "stackSize": 64,
+    "ammoItem": {
+      "value": "CUSTOM:Helldragonfireball2"
+    },
+    "shootConstantly": false,
+    "usageCount": 1,
+    "actionSound": {
+      "value": "entity.enderdragon.shoot"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 1.0,
+    "bulletDamage": 4.0,
+    "bulletKnockback": 5,
+    "bulletParticles": true,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Helldragonfireball2"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "Helldragonfireball2BulletHitsBlock"
+    },
+    "onBulletHitsPlayer": {
+      "name": "Helldragonfireball2BulletHitsBlock"
+    },
+    "onBulletHitsEntity": {
+      "name": "Helldragonfireball2BulletHitsBlock"
+    }
+  }
+}

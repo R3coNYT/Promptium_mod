@@ -1,0 +1,12 @@
+{
+  "parent": "promptium:custom/big_sword1",
+  "textures": {
+    "0": "promptium:blocks/promptium_block",
+    "1": "promptium:blocks/promptium_block",
+    "2": "promptium:blocks/white",
+    "3": "promptium:blocks/gold",
+    "4": "promptium:blocks/black",
+    "missing": "promptium:blocks/dark_red",
+    "particle": "promptium:items/big_sword_texture"
+  }
+}

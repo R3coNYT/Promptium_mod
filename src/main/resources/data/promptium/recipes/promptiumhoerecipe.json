@@ -1,0 +1,27 @@
+{
+  "group": "promptium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "promptium:promptiumingot"
+    },
+    "1": {
+      "item": "promptium:promptiumingot"
+    },
+    "3": {
+      "item": "promptium:promptiumstick"
+    },
+    "5": {
+      "item": "promptium:promptiumstick"
+    }
+  },
+  "result": {
+    "item": "promptium:promptiumhoe",
+    "count": 1
+  }
+}

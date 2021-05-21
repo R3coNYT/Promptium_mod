@@ -1,0 +1,13 @@
+{
+  "group": "promptium",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "promptium:puranium_ore_block"
+    }
+  ],
+  "result": {
+    "item": "promptium:puranium_gem",
+    "count": 9
+  }
+}

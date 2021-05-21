@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "arg_logo",
+        "1": "grey1",
+        "2": "noir",
+        "3": "r3con",
+        "4": "red1",
+        "5": "visage",
+        "6": "white"
+      },
+      "name": "default"
+    }
+  }
+}

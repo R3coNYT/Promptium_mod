@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "promptium:blocks/promptiumchesttop",
+    "up": "promptium:blocks/promptiumchesttop",
+    "north": "promptium:blocks/promptiumchestfront",
+    "east": "promptium:blocks/promptiumchestsides",
+    "south": "promptium:blocks/promptiumchestsides",
+    "west": "promptium:blocks/promptiumchestsides",
+    "particle": "promptium:blocks/promptiumchesttop"
+  }
+}

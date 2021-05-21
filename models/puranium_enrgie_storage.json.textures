@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "blanc_gris",
+        "1": "blanc",
+        "2": "gris"
+      },
+      "name": "default"
+    }
+  }
+}

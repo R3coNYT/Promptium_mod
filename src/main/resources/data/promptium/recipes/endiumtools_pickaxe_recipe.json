@@ -1,0 +1,30 @@
+{
+  "group": "promptium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "promptium:endium"
+    },
+    "1": {
+      "item": "promptium:endium"
+    },
+    "2": {
+      "item": "promptium:endium"
+    },
+    "4": {
+      "item": "promptium:prompt_endium_stick"
+    },
+    "7": {
+      "item": "promptium:prompt_endium_stick"
+    }
+  },
+  "result": {
+    "item": "promptium:endiumtools_pickaxe",
+    "count": 1
+  }
+}

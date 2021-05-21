@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "promptium:blocks/electrical_reinforced_netherite",
+    "up": "promptium:blocks/electrical_reinforced_netherite",
+    "north": "promptium:blocks/electrical_reinforced_netherite",
+    "east": "promptium:blocks/electrical_reinforced_netherite",
+    "south": "promptium:blocks/electrical_reinforced_netherite",
+    "west": "promptium:blocks/electrical_reinforced_netherite",
+    "particle": "promptium:blocks/electrical_reinforced_netherite"
+  }
+}

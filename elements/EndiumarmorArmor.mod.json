@@ -1,0 +1,59 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "endiumhelmet",
+    "enableBody": true,
+    "textureBody": "endiumchest",
+    "enableLeggings": true,
+    "textureLeggings": "endiumleggings",
+    "enableBoots": true,
+    "textureBoots": "endiumboots",
+    "onHelmetTick": {
+      "name": "PromptiumarmorArmorHelmetTickEvent"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:Promptium"
+    },
+    "armorTextureFile": "endium_armor_",
+    "helmetName": "Endium Helmet",
+    "bodyName": "Endium Chestplate",
+    "leggingsName": "Endium Leggings",
+    "bootsName": "Endium Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 100,
+    "damageValueHelmet": 5,
+    "damageValueBody": 7,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 5,
+    "enchantability": 65,
+    "toughness": 3.5,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Endiumblock"
+      }
+    ]
+  }
+}

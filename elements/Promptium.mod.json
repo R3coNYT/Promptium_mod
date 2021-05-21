@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Promptium",
+    "icon": {
+      "value": "CUSTOM:PromptiumIngot"
+    },
+    "showSearch": false
+  }
+}

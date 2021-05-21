@@ -1,0 +1,20 @@
+{
+  "group": "promptium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "promptium:copperingot"
+    },
+    "1": {
+      "item": "promptium:promptiumshears"
+    }
+  },
+  "result": {
+    "item": "promptium:copperstring",
+    "count": 5
+  }
+}

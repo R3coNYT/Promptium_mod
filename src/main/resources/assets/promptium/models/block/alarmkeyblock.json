@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "promptium:blocks/alarm_keyblock",
+    "particle": "promptium:blocks/alarm_keyblock"
+  }
+}

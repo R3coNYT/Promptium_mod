@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "promptium:blocks/plastic_stone",
+    "particle": "promptium:blocks/plastic_stone"
+  }
+}

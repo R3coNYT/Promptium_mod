@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "promptium:blocks/deepslate_redstone_ore",
+    "up": "promptium:blocks/deepslate_redstone_ore",
+    "north": "promptium:blocks/deepslate_redstone_ore",
+    "east": "promptium:blocks/deepslate_redstone_ore",
+    "south": "promptium:blocks/deepslate_redstone_ore",
+    "west": "promptium:blocks/deepslate_redstone_ore",
+    "particle": "promptium:blocks/deepslate_redstone_ore"
+  }
+}

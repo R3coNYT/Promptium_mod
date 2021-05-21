@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "promptium:block/puraniumchest"
+    },
+    "facing=east": {
+      "model": "promptium:block/puraniumchest",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "promptium:block/puraniumchest",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "promptium:block/puraniumchest",
+      "y": 270
+    }
+  }
+}

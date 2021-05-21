@@ -1,0 +1,36 @@
+{
+  "group": "promptium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "promptium:endium"
+    },
+    "3": {
+      "item": "promptium:endium"
+    },
+    "4": {
+      "item": "promptium:rockfragment"
+    },
+    "5": {
+      "item": "promptium:endium"
+    },
+    "6": {
+      "item": "promptium:rockfragment"
+    },
+    "7": {
+      "item": "promptium:rockfragment"
+    },
+    "8": {
+      "item": "promptium:rockfragment"
+    }
+  },
+  "result": {
+    "item": "promptium:lavendium",
+    "count": 1
+  }
+}

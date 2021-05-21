@@ -1,0 +1,27 @@
+{
+  "group": "promptium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "promptium:lavadium"
+    },
+    "1": {
+      "item": "promptium:lavadium"
+    },
+    "3": {
+      "item": "promptium:hellwood_stick"
+    },
+    "5": {
+      "item": "promptium:hellwood_stick"
+    }
+  },
+  "result": {
+    "item": "promptium:lavadiumtools_hoe",
+    "count": 1
+  }
+}

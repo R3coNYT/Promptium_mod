@@ -1,0 +1,42 @@
+{
+  "group": "promptium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "promptium:puranium_gem"
+    },
+    "1": {
+      "item": "promptium:puranium_gem"
+    },
+    "2": {
+      "item": "promptium:puranium_gem"
+    },
+    "3": {
+      "item": "promptium:puranium_gem"
+    },
+    "4": {
+      "item": "promptium:puranium_gem"
+    },
+    "5": {
+      "item": "promptium:puranium_gem"
+    },
+    "6": {
+      "item": "promptium:puranium_gem"
+    },
+    "7": {
+      "item": "promptium:puranium_gem"
+    },
+    "8": {
+      "item": "promptium:puranium_gem"
+    }
+  },
+  "result": {
+    "item": "promptium:puranium_ore_block",
+    "count": 1
+  }
+}

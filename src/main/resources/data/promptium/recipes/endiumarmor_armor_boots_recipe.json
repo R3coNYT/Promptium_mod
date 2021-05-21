@@ -1,0 +1,26 @@
+{
+  "group": "promptium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "promptium:endium"
+    },
+    "2": {
+      "item": "promptium:endium"
+    },
+    "3": {
+      "item": "promptium:endium"
+    },
+    "5": {
+      "item": "promptium:endium"
+    }
+  },
+  "result": {
+    "item": "promptium:endiumarmor_armor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "group": "promptium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "promptium:promptiumsword"
+    },
+    "3": {
+      "item": "promptium:endium"
+    },
+    "4": {
+      "item": "promptium:lavadiumtools_sword"
+    },
+    "5": {
+      "item": "promptium:endium"
+    },
+    "6": {
+      "item": "promptium:promptiumblock"
+    },
+    "7": {
+      "item": "promptium:prompt_endium_stick"
+    },
+    "8": {
+      "item": "promptium:promptiumblock"
+    }
+  },
+  "result": {
+    "item": "promptium:bigsword",
+    "count": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "endiumaxe",
+    "customModelName": "Normal",
+    "name": "Endium Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Promptium"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 6,
+    "efficiency": 20.0,
+    "attackSpeed": 9.0,
+    "enchantability": 65,
+    "damageVsEntity": 10.5,
+    "usageCount": 10000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:EndiumtoolsAxe"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

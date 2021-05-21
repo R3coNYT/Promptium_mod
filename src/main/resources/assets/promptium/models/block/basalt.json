@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "promptium:blocks/basalt_top",
+    "up": "promptium:blocks/basalt_top",
+    "north": "promptium:blocks/basalt_side",
+    "east": "promptium:blocks/basalt_side",
+    "south": "promptium:blocks/basalt_side",
+    "west": "promptium:blocks/basalt_side",
+    "particle": "promptium:blocks/basalt_top"
+  }
+}

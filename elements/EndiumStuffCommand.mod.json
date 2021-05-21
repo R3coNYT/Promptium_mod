@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "command",
+  "definition": {
+    "commandName": "Endium",
+    "permissionLevel": "1",
+    "onCommandExecuted": {
+      "name": "EndiumStuffCommandCommandExecuted"
+    }
+  }
+}

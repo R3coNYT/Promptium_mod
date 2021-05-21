@@ -1,0 +1,42 @@
+{
+  "group": "promptium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "promptium:blackplastic"
+    },
+    "1": {
+      "item": "promptium:blackplastic"
+    },
+    "2": {
+      "item": "promptium:blackplastic"
+    },
+    "3": {
+      "item": "promptium:blackplastic"
+    },
+    "4": {
+      "item": "promptium:key"
+    },
+    "5": {
+      "item": "promptium:blackplastic"
+    },
+    "6": {
+      "item": "promptium:blackplastic"
+    },
+    "7": {
+      "item": "promptium:electricalcable"
+    },
+    "8": {
+      "item": "promptium:blackplastic"
+    }
+  },
+  "result": {
+    "item": "promptium:alarmkeyside",
+    "count": 1
+  }
+}

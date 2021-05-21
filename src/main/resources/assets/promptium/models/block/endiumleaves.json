@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "promptium:blocks/endium_leaves",
+    "particle": "promptium:blocks/endium_leaves"
+  }
+}

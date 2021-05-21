@@ -1,0 +1,36 @@
+{
+  "group": "promptium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "promptium:promptiumingot"
+    },
+    "1": {
+      "item": "promptium:promptiumingot"
+    },
+    "2": {
+      "item": "promptium:promptiumingot"
+    },
+    "3": {
+      "item": "promptium:promptiumingot"
+    },
+    "5": {
+      "item": "promptium:promptiumingot"
+    },
+    "6": {
+      "item": "promptium:promptiumingot"
+    },
+    "8": {
+      "item": "promptium:promptiumingot"
+    }
+  },
+  "result": {
+    "item": "promptium:promptium_armorarmor_leggings",
+    "count": 1
+  }
+}

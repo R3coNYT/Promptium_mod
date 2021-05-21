@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "promptium_block",
+        "1": "promptium_block",
+        "2": "white",
+        "3": "gold",
+        "4": "black",
+        "missing": "dark_red"
+      },
+      "name": "default"
+    }
+  }
+}

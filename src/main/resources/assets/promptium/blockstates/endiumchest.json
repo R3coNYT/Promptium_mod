@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "promptium:block/endiumchest"
+    },
+    "facing=east": {
+      "model": "promptium:block/endiumchest",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "promptium:block/endiumchest",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "promptium:block/endiumchest",
+      "y": 270
+    }
+  }
+}

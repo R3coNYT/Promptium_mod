@@ -1,0 +1,39 @@
+{
+  "group": "promptium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "promptium:promptiumingot"
+    },
+    "2": {
+      "item": "promptium:promptiumingot"
+    },
+    "3": {
+      "item": "promptium:promptiumingot"
+    },
+    "4": {
+      "item": "promptium:promptiumingot"
+    },
+    "5": {
+      "item": "promptium:promptiumingot"
+    },
+    "6": {
+      "item": "promptium:promptiumingot"
+    },
+    "7": {
+      "item": "promptium:promptiumingot"
+    },
+    "8": {
+      "item": "promptium:promptiumingot"
+    }
+  },
+  "result": {
+    "item": "promptium:promptium_armorarmor_chestplate",
+    "count": 1
+  }
+}

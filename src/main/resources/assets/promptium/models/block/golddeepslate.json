@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "promptium:blocks/deepslate_gold_ore",
+    "up": "promptium:blocks/deepslate_gold_ore",
+    "north": "promptium:blocks/deepslate_gold_ore",
+    "east": "promptium:blocks/deepslate_gold_ore",
+    "south": "promptium:blocks/deepslate_gold_ore",
+    "west": "promptium:blocks/deepslate_gold_ore",
+    "particle": "promptium:blocks/deepslate_gold_ore"
+  }
+}

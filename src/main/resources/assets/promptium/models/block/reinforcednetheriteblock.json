@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "promptium:blocks/reinforced_netherite_block",
+    "up": "promptium:blocks/reinforced_netherite_block",
+    "north": "promptium:blocks/reinforced_netherite_block",
+    "east": "promptium:blocks/reinforced_netherite_block",
+    "south": "promptium:blocks/reinforced_netherite_block",
+    "west": "promptium:blocks/reinforced_netherite_block",
+    "particle": "promptium:blocks/reinforced_netherite_block"
+  }
+}

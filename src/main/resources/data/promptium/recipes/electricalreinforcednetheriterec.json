@@ -1,0 +1,42 @@
+{
+  "group": "promptium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "promptium:reinforcednetheriteblock"
+    },
+    "1": {
+      "item": "promptium:reinforcednetheriteblock"
+    },
+    "2": {
+      "item": "promptium:reinforcednetheriteblock"
+    },
+    "3": {
+      "item": "promptium:reinforcednetheriteblock"
+    },
+    "4": {
+      "item": "promptium:electricalcable"
+    },
+    "5": {
+      "item": "promptium:reinforcednetheriteblock"
+    },
+    "6": {
+      "item": "promptium:reinforcednetheriteblock"
+    },
+    "7": {
+      "item": "promptium:reinforcednetheriteblock"
+    },
+    "8": {
+      "item": "promptium:reinforcednetheriteblock"
+    }
+  },
+  "result": {
+    "item": "promptium:electricalreinforcednetheriteblock",
+    "count": 1
+  }
+}

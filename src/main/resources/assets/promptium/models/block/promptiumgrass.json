@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "promptium:blocks/promptium_dirt_bottom",
+    "up": "promptium:blocks/promptium_grass_top",
+    "north": "promptium:blocks/promptium_grass_side",
+    "east": "promptium:blocks/promptium_grass_side",
+    "south": "promptium:blocks/promptium_grass_side",
+    "west": "promptium:blocks/promptium_grass_side",
+    "particle": "promptium:blocks/promptium_dirt_bottom"
+  }
+}

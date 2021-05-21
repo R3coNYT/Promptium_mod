@@ -1,0 +1,36 @@
+{
+  "group": "promptium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "promptium:plasticcable"
+    },
+    "1": {
+      "item": "promptium:copperstring"
+    },
+    "2": {
+      "item": "promptium:plasticcable"
+    },
+    "3": {
+      "item": "minecraft:iron_ingot"
+    },
+    "4": {
+      "item": "promptium:plasticcable"
+    },
+    "5": {
+      "item": "minecraft:iron_ingot"
+    },
+    "7": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "promptium:electricalcable",
+    "count": 1
+  }
+}

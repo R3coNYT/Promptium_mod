@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Endium"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Endium"
+      },
+      {
+        "value": "CUSTOM:Rockfragment"
+      },
+      {
+        "value": "CUSTOM:Endium"
+      },
+      {
+        "value": "CUSTOM:Rockfragment"
+      },
+      {
+        "value": "CUSTOM:Rockfragment"
+      },
+      {
+        "value": "CUSTOM:Rockfragment"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Lavendium"
+    },
+    "name": "lavadiumcraft",
+    "namespace": "mod"
+  }
+}

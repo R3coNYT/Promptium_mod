@@ -1,0 +1,29 @@
+{
+  "group": "promptium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "promptium:lavadium"
+    },
+    "1": {
+      "item": "promptium:lavadium"
+    },
+    "2": {
+      "item": "promptium:lavadium"
+    },
+    "3": {
+      "item": "promptium:lavadium"
+    },
+    "5": {
+      "item": "promptium:lavadium"
+    }
+  },
+  "result": {
+    "item": "promptium:lavadiumarmor_helmet",
+    "count": 1
+  }
+}

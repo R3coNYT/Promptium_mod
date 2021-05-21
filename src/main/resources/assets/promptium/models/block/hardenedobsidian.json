@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "promptium:blocks/hardened_obsidian",
+    "particle": "promptium:blocks/hardened_obsidian"
+  }
+}

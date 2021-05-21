@@ -1,0 +1,119 @@
+{
+  "_fv": 18,
+  "_type": "biome",
+  "definition": {
+    "name": "Hell Biome",
+    "groundBlock": {
+      "value": "CUSTOM:Hellblock"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:Hellblock"
+    },
+    "airColor": {
+      "value": -5565179,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -5105914,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -5105914,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -448752,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -448752,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 0,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particlesProbability": 0.0,
+    "biomeCategory": "NONE",
+    "parent": {
+      "value": "No parent"
+    },
+    "rainingPossibility": 0.0,
+    "temperature": 2.0,
+    "baseHeight": 0.0,
+    "heightVariation": 0.2,
+    "biomeType": "DESERT",
+    "spawnBiome": true,
+    "biomeWeight": 2,
+    "biomeDictionaryTypes": [],
+    "grassPerChunk": 4,
+    "seagrassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPatchesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "treesPerChunk": 2,
+    "vanillaTreeType": "Mega spruce trees",
+    "treeType": 1,
+    "minHeight": 10,
+    "maxWaterDepth": 0,
+    "treeStem": {
+      "value": "CUSTOM:HellWood"
+    },
+    "treeBranch": {
+      "value": "CUSTOM:HellLeaves"
+    },
+    "treeVines": {
+      "value": "Blocks.VOID_AIR"
+    },
+    "treeFruits": {
+      "value": "Blocks.VOID_AIR"
+    },
+    "spawnStronghold": false,
+    "spawnMineshaft": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "oceanRuinType": "NONE",
+    "defaultFeatures": [
+      "Caves",
+      "MonsterRooms",
+      "Structures",
+      "Ores",
+      "Lakes",
+      "FrozenTopLayer"
+    ],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "CUSTOM:HellDragon"
+        },
+        "minGroup": 1,
+        "maxGroup": 1,
+        "weight": 15,
+        "spawnType": "creature"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "endiumsword",
+    "customModelName": "Normal",
+    "name": "Endium Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Promptium"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 6,
+    "efficiency": 20.0,
+    "attackSpeed": 12.5,
+    "enchantability": 65,
+    "damageVsEntity": 11.5,
+    "usageCount": 10000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:EndiumtoolsSword"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

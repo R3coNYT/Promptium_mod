@@ -1,0 +1,24 @@
+{
+  "group": "promptium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "promptium:promptiumingot"
+    },
+    "1": {
+      "item": "promptium:promptiumstick"
+    },
+    "2": {
+      "item": "promptium:promptiumstick"
+    }
+  },
+  "result": {
+    "item": "promptium:promptiumshovel",
+    "count": 1
+  }
+}

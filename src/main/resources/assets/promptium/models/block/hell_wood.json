@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "promptium:blocks/hellwood",
+    "up": "promptium:blocks/hellwood",
+    "north": "promptium:blocks/hellwood",
+    "east": "promptium:blocks/hellwood",
+    "south": "promptium:blocks/hellwood",
+    "west": "promptium:blocks/hellwood",
+    "particle": "promptium:blocks/hellwood"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "group": "promptium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "promptium:plastic"
+    },
+    "2": {
+      "item": "promptium:plastic"
+    },
+    "3": {
+      "item": "promptium:plastic"
+    },
+    "5": {
+      "item": "promptium:plastic"
+    },
+    "6": {
+      "item": "promptium:plastic"
+    },
+    "8": {
+      "item": "promptium:plastic"
+    }
+  },
+  "result": {
+    "item": "promptium:plasticcable",
+    "count": 5
+  }
+}

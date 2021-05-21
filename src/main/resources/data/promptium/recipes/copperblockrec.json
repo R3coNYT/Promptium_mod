@@ -1,0 +1,42 @@
+{
+  "group": "promptium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "promptium:copperingot"
+    },
+    "1": {
+      "item": "promptium:copperingot"
+    },
+    "2": {
+      "item": "promptium:copperingot"
+    },
+    "3": {
+      "item": "promptium:copperingot"
+    },
+    "4": {
+      "item": "promptium:copperingot"
+    },
+    "5": {
+      "item": "promptium:copperingot"
+    },
+    "6": {
+      "item": "promptium:copperingot"
+    },
+    "7": {
+      "item": "promptium:copperingot"
+    },
+    "8": {
+      "item": "promptium:copperingot"
+    }
+  },
+  "result": {
+    "item": "promptium:copperblock",
+    "count": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "promptium_sword_texture",
+    "customModelName": "Normal",
+    "name": "Promptium Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Promptium"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 5,
+    "efficiency": 15.0,
+    "attackSpeed": 8.0,
+    "enchantability": 40,
+    "damageVsEntity": 7.5,
+    "usageCount": 5000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:PromptiumSword"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "promptium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "promptium:promptiumingot"
+    },
+    "1": {
+      "item": "promptium:endium"
+    },
+    "2": {
+      "item": "promptium:promptiumingot"
+    },
+    "3": {
+      "item": "promptium:endium"
+    },
+    "4": {
+      "item": "minecraft:netherite_block"
+    },
+    "5": {
+      "item": "promptium:endium"
+    },
+    "6": {
+      "item": "promptium:promptiumingot"
+    },
+    "7": {
+      "item": "promptium:endium"
+    },
+    "8": {
+      "item": "promptium:promptiumingot"
+    }
+  },
+  "result": {
+    "item": "promptium:reinforcednetheriteblock",
+    "count": 1
+  }
+}

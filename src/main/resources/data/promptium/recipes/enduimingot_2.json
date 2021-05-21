@@ -1,0 +1,16 @@
+{
+  "group": "promptium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "promptium:endium_block"
+    }
+  },
+  "result": {
+    "item": "promptium:endium",
+    "count": 9
+  }
+}

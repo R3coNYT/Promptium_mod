@@ -1,0 +1,30 @@
+{
+  "group": "promptium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "promptium:promptiumingot"
+    },
+    "1": {
+      "item": "promptium:promptiumingot"
+    },
+    "2": {
+      "item": "promptium:promptiumingot"
+    },
+    "4": {
+      "item": "promptium:promptiumstick"
+    },
+    "7": {
+      "item": "promptium:promptiumstick"
+    }
+  },
+  "result": {
+    "item": "promptium:promptiumpickaxe",
+    "count": 1
+  }
+}

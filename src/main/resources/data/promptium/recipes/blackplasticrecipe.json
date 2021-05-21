@@ -1,0 +1,16 @@
+{
+  "group": "promptium",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:black_dye"
+    },
+    {
+      "item": "promptium:plastic"
+    }
+  ],
+  "result": {
+    "item": "promptium:blackplastic",
+    "count": 1
+  }
+}

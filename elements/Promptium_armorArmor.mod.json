@@ -1,0 +1,59 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "promptium_helmet_texture",
+    "enableBody": true,
+    "textureBody": "promptium_body_texture",
+    "enableLeggings": true,
+    "textureLeggings": "promptium_leggings_texture",
+    "enableBoots": true,
+    "textureBoots": "promptium_boots_texture",
+    "onHelmetTick": {
+      "name": "PromptiumarmorArmorHelmetTickEvent"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:Promptium"
+    },
+    "armorTextureFile": "promptium_armor_",
+    "helmetName": "Promptium Helmet",
+    "bodyName": "Promptium Chestplate",
+    "leggingsName": "Promptium Leggings",
+    "bootsName": "Promptium Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 90,
+    "damageValueHelmet": 5,
+    "damageValueBody": 6,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 5,
+    "enchantability": 50,
+    "toughness": 2.5,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Promptiumblock"
+      }
+    ]
+  }
+}

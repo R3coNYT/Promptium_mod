@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "lavadiumsword",
+    "customModelName": "Normal",
+    "name": "Lavadium Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Promptium"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 7,
+    "efficiency": 30.0,
+    "attackSpeed": 12.5,
+    "enchantability": 80,
+    "damageVsEntity": 12.5,
+    "usageCount": 20000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:LavadiumtoolsSword"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

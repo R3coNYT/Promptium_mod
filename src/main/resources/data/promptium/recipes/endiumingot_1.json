@@ -1,0 +1,12 @@
+{
+  "group": "promptium",
+  "type": "minecraft:smelting",
+  "experience": 15,
+  "cookingtime": 300,
+  "ingredient": {
+    "item": "promptium:endiumore"
+  },
+  "result": {
+    "item": "promptium:endium"
+  }
+}

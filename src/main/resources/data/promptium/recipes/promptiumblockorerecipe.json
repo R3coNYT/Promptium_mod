@@ -1,0 +1,16 @@
+{
+  "group": "promptium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "promptium:promptiumblock"
+    }
+  },
+  "result": {
+    "item": "promptium:promptiumingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "group": "promptium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "promptium:lavadium"
+    },
+    "1": {
+      "item": "promptium:lavadium"
+    },
+    "2": {
+      "item": "promptium:lavadium"
+    },
+    "4": {
+      "item": "promptium:hellwood_stick"
+    },
+    "7": {
+      "item": "promptium:hellwood_stick"
+    }
+  },
+  "result": {
+    "item": "promptium:lavadiumtools_pickaxe",
+    "count": 1
+  }
+}

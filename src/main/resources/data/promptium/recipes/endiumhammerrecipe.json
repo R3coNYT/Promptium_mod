@@ -1,0 +1,36 @@
+{
+  "group": "promptium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "promptium:endium"
+    },
+    "1": {
+      "item": "promptium:endium"
+    },
+    "2": {
+      "item": "promptium:endium"
+    },
+    "3": {
+      "item": "promptium:endium"
+    },
+    "4": {
+      "item": "promptium:promptiumingot"
+    },
+    "5": {
+      "item": "promptium:endium"
+    },
+    "7": {
+      "item": "promptium:prompt_endium_stick"
+    }
+  },
+  "result": {
+    "item": "promptium:endiumhammer",
+    "count": 1
+  }
+}

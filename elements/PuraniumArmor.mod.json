@@ -1,0 +1,56 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "puranium_head",
+    "enableBody": true,
+    "textureBody": "puranium_body",
+    "enableLeggings": true,
+    "textureLeggings": "puranium_leggings",
+    "enableBoots": true,
+    "textureBoots": "puranium_boots",
+    "creativeTab": {
+      "value": "CUSTOM:Promptium"
+    },
+    "armorTextureFile": "puranium",
+    "helmetName": "Puranium Helmet",
+    "bodyName": "Puranium Chestplate",
+    "leggingsName": "Puranium Leggings",
+    "bootsName": "Puranium Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 75,
+    "damageValueHelmet": 4,
+    "damageValueBody": 5,
+    "damageValueLeggings": 4,
+    "damageValueBoots": 4,
+    "enchantability": 40,
+    "toughness": 1.5,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:PuraniumOreBlock"
+      }
+    ]
+  }
+}

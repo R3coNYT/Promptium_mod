@@ -1,0 +1,24 @@
+{
+  "group": "promptium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "promptium:lavadium"
+    },
+    "1": {
+      "item": "promptium:lavadium"
+    },
+    "2": {
+      "item": "promptium:hellwood_stick"
+    }
+  },
+  "result": {
+    "item": "promptium:lavadiumtools_sword",
+    "count": 1
+  }
+}

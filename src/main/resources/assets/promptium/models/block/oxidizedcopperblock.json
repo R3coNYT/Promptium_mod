@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "promptium:blocks/oxidized_copper",
+    "up": "promptium:blocks/oxidized_copper",
+    "north": "promptium:blocks/oxidized_copper",
+    "east": "promptium:blocks/oxidized_copper",
+    "south": "promptium:blocks/oxidized_copper",
+    "west": "promptium:blocks/oxidized_copper",
+    "particle": "promptium:blocks/oxidized_copper"
+  }
+}

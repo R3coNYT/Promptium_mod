@@ -1,0 +1,12 @@
+{
+  "group": "promptium",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "promptium:promptiumoreblock"
+  },
+  "result": {
+    "item": "promptium:promptiumingot"
+  }
+}

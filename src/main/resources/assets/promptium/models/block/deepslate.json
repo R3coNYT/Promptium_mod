@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "promptium:blocks/deepslate_top",
+    "up": "promptium:blocks/deepslate_top",
+    "north": "promptium:blocks/deepslate",
+    "east": "promptium:blocks/deepslate",
+    "south": "promptium:blocks/deepslate",
+    "west": "promptium:blocks/deepslate",
+    "particle": "promptium:blocks/deepslate_top"
+  }
+}

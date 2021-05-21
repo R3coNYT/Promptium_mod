@@ -1,0 +1,52 @@
+
+package net.mcreator.promptium.item;
+
+import net.minecraftforge.registries.ObjectHolder;
+
+import net.minecraft.item.crafting.Ingredient;
+import net.minecraft.item.ShovelItem;
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.Item;
+import net.minecraft.item.IItemTier;
+
+import net.mcreator.promptium.itemgroup.PromptiumItemGroup;
+import net.mcreator.promptium.PromptiumModElements;
+
+@PromptiumModElements.ModElement.Tag
+public class PuraniumShovelItem extends PromptiumModElements.ModElement {
+	@ObjectHolder("promptium:puranium_shovel")
+	public static final Item block = null;
+	public PuraniumShovelItem(PromptiumModElements instance) {
+		super(instance, 70);
+	}
+
+	@Override
+	public void initElements() {
+		elements.items.add(() -> new ShovelItem(new IItemTier() {
+			public int getMaxUses() {
+				return 2500;
+			}
+
+			public float getEfficiency() {
+				return 10f;
+			}
+
+			public float getAttackDamage() {
+				return -1f;
+			}
+
+			public int getHarvestLevel() {
+				return 4;
+			}
+
+			public int getEnchantability() {
+				return 35;
+			}
+
+			public Ingredient getRepairMaterial() {
+				return Ingredient.fromStacks(new ItemStack(PuraniumShovelItem.block, (int) (1)));
+			}
+		}, 1, 4f, new Item.Properties().group(PromptiumItemGroup.tab)) {
+		}.setRegistryName("puranium_shovel"));
+	}
+}

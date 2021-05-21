@@ -1,0 +1,20 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 15.0,
+    "cookingTime": 300,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:Endiumore"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:Endium"
+    },
+    "name": "endiumingot_1",
+    "namespace": "mod"
+  }
+}

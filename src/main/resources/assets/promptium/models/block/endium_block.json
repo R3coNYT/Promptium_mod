@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "promptium:blocks/endiumblock",
+    "up": "promptium:blocks/endiumblock",
+    "north": "promptium:blocks/endiumblock",
+    "east": "promptium:blocks/endiumblock",
+    "south": "promptium:blocks/endiumblock",
+    "west": "promptium:blocks/endiumblock",
+    "particle": "promptium:blocks/endiumblock"
+  }
+}
