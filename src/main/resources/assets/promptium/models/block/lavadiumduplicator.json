@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "promptium:blocks/bills_factory_sides",
+    "up": "promptium:blocks/bills_factory_sides",
+    "north": "promptium:blocks/bills_upgrader_sides",
+    "east": "promptium:blocks/bills_factory_sides",
+    "south": "promptium:blocks/bills_upgrader_sides",
+    "west": "promptium:blocks/bills_factory_sides",
+    "particle": "promptium:blocks/bills_factory_sides"
+  }
+}

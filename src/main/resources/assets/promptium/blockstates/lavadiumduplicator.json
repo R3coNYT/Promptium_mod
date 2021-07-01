@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "promptium:block/lavadiumduplicator"
+    },
+    "facing=east": {
+      "model": "promptium:block/lavadiumduplicator",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "promptium:block/lavadiumduplicator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "promptium:block/lavadiumduplicator",
+      "y": 270
+    }
+  }
+}

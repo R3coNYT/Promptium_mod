@@ -1,0 +1,42 @@
+{
+  "group": "promptium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "promptium:lavadiumbloc"
+    },
+    "1": {
+      "item": "promptium:lavadiumbloc"
+    },
+    "2": {
+      "item": "promptium:lavadiumbloc"
+    },
+    "3": {
+      "item": "promptium:lavadiumbloc"
+    },
+    "4": {
+      "item": "minecraft:iron_block"
+    },
+    "5": {
+      "item": "promptium:lavadiumbloc"
+    },
+    "6": {
+      "item": "promptium:lavadiumbloc"
+    },
+    "7": {
+      "item": "promptium:lavadiumbloc"
+    },
+    "8": {
+      "item": "promptium:lavadiumbloc"
+    }
+  },
+  "result": {
+    "item": "promptium:lavadiumduplicator",
+    "count": 1
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Lavadiumbloc"
+      },
+      {
+        "value": "CUSTOM:Lavadiumbloc"
+      },
+      {
+        "value": "CUSTOM:Lavadiumbloc"
+      },
+      {
+        "value": "CUSTOM:Lavadiumbloc"
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "CUSTOM:Lavadiumbloc"
+      },
+      {
+        "value": "CUSTOM:Lavadiumbloc"
+      },
+      {
+        "value": "CUSTOM:Lavadiumbloc"
+      },
+      {
+        "value": "CUSTOM:Lavadiumbloc"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Lavadiumduplicator"
+    },
+    "name": "lavadiumduplicatorrec",
+    "namespace": "mod"
+  }
+}

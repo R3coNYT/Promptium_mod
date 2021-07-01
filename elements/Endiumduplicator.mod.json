@@ -2,15 +2,15 @@
   "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "weathered_copper",
-    "textureTop": "weathered_copper",
-    "textureLeft": "weathered_copper",
-    "textureFront": "weathered_copper",
-    "textureRight": "weathered_copper",
-    "textureBack": "weathered_copper",
+    "texture": "bills_factory_sides",
+    "textureTop": "bills_factory_sides",
+    "textureLeft": "bills_factory_sides",
+    "textureFront": "endiumduplicatorfront",
+    "textureRight": "bills_factory_sides",
+    "textureBack": "endiumduplicatorfront",
     "renderType": 10,
     "customModelName": "Normal",
-    "rotationMode": 0,
+    "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
     "itemTexture": "",
@@ -32,14 +32,14 @@
         "subtract": false
       }
     ],
-    "name": "Weathered copper block",
+    "name": "Endium duplicator",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "BUILDING_BLOCKS"
+      "value": "CUSTOM:Promptium"
     },
     "destroyTool": "pickaxe",
     "customDrop": {
@@ -54,7 +54,7 @@
     "material": {
       "value": "IRON"
     },
-    "tickRate": 4800,
+    "tickRate": 3600,
     "tickRandomly": false,
     "isReplaceable": false,
     "colorOnMap": "DEFAULT",
@@ -72,7 +72,7 @@
     "reactionToPushing": "NORMAL",
     "isNotColidable": false,
     "soundOnStep": {
-      "value": "STONE"
+      "value": "METAL"
     },
     "luminance": 0,
     "unbreakable": false,
@@ -84,15 +84,19 @@
     "particleSpawningShape": "Spread",
     "particleSpawningRadious": 0.5,
     "particleAmount": 4,
-    "hasInventory": false,
-    "guiBoundTo": "<NONE>",
-    "openGUIOnRightClick": false,
-    "inventorySize": 9,
+    "hasInventory": true,
+    "guiBoundTo": "Endiumduplicatorgui",
+    "openGUIOnRightClick": true,
+    "inventorySize": 2,
     "inventoryStackSize": 64,
     "inventoryDropWhenDestroyed": true,
     "inventoryComparatorPower": true,
-    "inventoryOutSlotIDs": [],
-    "inventoryInSlotIDs": [],
+    "inventoryOutSlotIDs": [
+      1
+    ],
+    "inventoryInSlotIDs": [
+      0
+    ],
     "hasEnergyStorage": false,
     "energyInitial": 0,
     "energyCapacity": 400000,
@@ -102,7 +106,7 @@
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
     "onTickUpdate": {
-      "name": "WeatheredcopperUpdateTick"
+      "name": "Endiumduplicatorupdatetick"
     },
     "spawnWorldTypes": [],
     "restrictionBiomes": [],

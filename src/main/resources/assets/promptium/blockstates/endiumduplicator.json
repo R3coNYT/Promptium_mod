@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "promptium:block/endiumduplicator"
+    },
+    "facing=east": {
+      "model": "promptium:block/endiumduplicator",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "promptium:block/endiumduplicator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "promptium:block/endiumduplicator",
+      "y": 270
+    }
+  }
+}

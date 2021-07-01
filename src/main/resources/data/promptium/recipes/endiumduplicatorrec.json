@@ -1,0 +1,42 @@
+{
+  "group": "promptium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "promptium:endium_block"
+    },
+    "1": {
+      "item": "promptium:endium_block"
+    },
+    "2": {
+      "item": "promptium:endium_block"
+    },
+    "3": {
+      "item": "promptium:endium_block"
+    },
+    "4": {
+      "item": "minecraft:iron_block"
+    },
+    "5": {
+      "item": "promptium:endium_block"
+    },
+    "6": {
+      "item": "promptium:endium_block"
+    },
+    "7": {
+      "item": "promptium:endium_block"
+    },
+    "8": {
+      "item": "promptium:endium_block"
+    }
+  },
+  "result": {
+    "item": "promptium:endiumduplicator",
+    "count": 1
+  }
+}

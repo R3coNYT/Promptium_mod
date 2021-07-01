@@ -61,7 +61,7 @@ public class ExposedcopperBlock extends PromptiumModElements.ModElement {
 			int x = pos.getX();
 			int y = pos.getY();
 			int z = pos.getZ();
-			world.getPendingBlockTicks().scheduleTick(new BlockPos(x, y, z), this, 2400);
+			world.getPendingBlockTicks().scheduleTick(new BlockPos(x, y, z), this, 4800);
 		}
 
 		@Override
@@ -78,7 +78,7 @@ public class ExposedcopperBlock extends PromptiumModElements.ModElement {
 				$_dependencies.put("world", world);
 				ExposedcopperUpdateTickProcedure.executeProcedure($_dependencies);
 			}
-			world.getPendingBlockTicks().scheduleTick(new BlockPos(x, y, z), this, 2400);
+			world.getPendingBlockTicks().scheduleTick(new BlockPos(x, y, z), this, 4800);
 		}
 	}
 }

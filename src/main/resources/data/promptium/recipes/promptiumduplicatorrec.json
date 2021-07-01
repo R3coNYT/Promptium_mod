@@ -1,0 +1,42 @@
+{
+  "group": "promptium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "promptium:promptiumblock"
+    },
+    "1": {
+      "item": "promptium:promptiumblock"
+    },
+    "2": {
+      "item": "promptium:promptiumblock"
+    },
+    "3": {
+      "item": "promptium:promptiumblock"
+    },
+    "4": {
+      "item": "minecraft:iron_block"
+    },
+    "5": {
+      "item": "promptium:promptiumblock"
+    },
+    "6": {
+      "item": "promptium:promptiumblock"
+    },
+    "7": {
+      "item": "promptium:promptiumblock"
+    },
+    "8": {
+      "item": "promptium:promptiumblock"
+    }
+  },
+  "result": {
+    "item": "promptium:promptiumduplicator",
+    "count": 1
+  }
+}
