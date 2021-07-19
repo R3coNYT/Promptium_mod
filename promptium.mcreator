@@ -2108,6 +2108,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "lavadiumduplicatorrec"
+    },
+    {
+      "name": "Lavadiumrec",
+      "type": "recipe",
+      "sortid": 262,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lavadiumrec"
     }
   ],
   "variable_elements": [
@@ -2266,7 +2275,7 @@
   "workspaceSettings": {
     "modid": "promptium",
     "modName": "promptium",
-    "version": "1.9.1",
+    "version": "1.9.3",
     "author": "ARG_R3coN",
     "websiteURL": "https://mcreator.net",
     "license": "Not specified",

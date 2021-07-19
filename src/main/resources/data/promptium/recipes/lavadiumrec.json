@@ -1,0 +1,16 @@
+{
+  "group": "promptium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "promptium:lavadiumbloc"
+    }
+  },
+  "result": {
+    "item": "promptium:lavadium",
+    "count": 9
+  }
+}
